@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-QuotersIncorporatedApplication<quoters-incorporated>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "org.springframework.quoters.QuotersIncorporatedApplication",
+            "projectName": "quoters-incorporated",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
